@@ -1,0 +1,1 @@
+cargo:rustc-link-arg-cdylib=-Wl,-z,max-page-size=16384

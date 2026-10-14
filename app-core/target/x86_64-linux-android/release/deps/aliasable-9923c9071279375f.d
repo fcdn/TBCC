@@ -1,0 +1,11 @@
+E:\TurnbasedCC\app-core\target\x86_64-linux-android\release\deps\aliasable-9923c9071279375f.d: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\mut_ref.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\boxed.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\string.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\vec.rs
+
+E:\TurnbasedCC\app-core\target\x86_64-linux-android\release\deps\libaliasable-9923c9071279375f.rlib: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\mut_ref.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\boxed.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\string.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\vec.rs
+
+E:\TurnbasedCC\app-core\target\x86_64-linux-android\release\deps\libaliasable-9923c9071279375f.rmeta: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\mut_ref.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\boxed.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\string.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\vec.rs
+
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\lib.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\mut_ref.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\boxed.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\string.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\aliasable-0.1.3\src\vec.rs:

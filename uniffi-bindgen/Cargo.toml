@@ -1,0 +1,13 @@
+[package]
+name = "uniffi-bindgen"
+version = "0.1.0"
+edition = "2021"
+
+# 이 크레이트는 app-core와 아예 별개입니다. 안드로이드용으로 빌드할 필요 없고,
+# PC(호스트)에서 딱 한 번씩 실행해서 Kotlin 코드를 뽑아내는 용도입니다.
+[dependencies]
+uniffi = { version = "0.28", features = ["cli"] }
+
+[[bin]]
+name = "uniffi-bindgen"
+path = "src/main.rs"

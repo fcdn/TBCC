@@ -1,0 +1,17 @@
+[package]
+name = "app-core"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "staticlib", "lib"]
+
+[dependencies]
+cold-clear = { git = "https://github.com/MinusKelvin/cold-clear", rev = "279edd7c3177ff8077f6a930193397814b281f27" }
+libtetris   = { git = "https://github.com/MinusKelvin/cold-clear", rev = "279edd7c3177ff8077f6a930193397814b281f27" }
+serde       = { version = "1", features = ["derive"] }
+rand        = "0.8"
+
+# UDL 파일 없이, Rust 코드에 붙이는 매크로(#[uniffi::export] 등)만으로 바인딩을 생성하는 방식.
+# build.rs가 필요 없어서 안드로이드 크로스컴파일 설정이 더 단순해집니다.
+uniffi = "0.28"

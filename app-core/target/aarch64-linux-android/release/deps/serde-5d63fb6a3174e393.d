@@ -1,0 +1,14 @@
+E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\deps\serde-5d63fb6a3174e393.d: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\build\serde-e78a1ca1ac42dcda\out/private.rs
+
+E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\deps\libserde-5d63fb6a3174e393.rlib: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\build\serde-e78a1ca1ac42dcda\out/private.rs
+
+E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\deps\libserde-5d63fb6a3174e393.rmeta: C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\build\serde-e78a1ca1ac42dcda\out/private.rs
+
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\dlswn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+E:\TurnbasedCC\app-core\target\aarch64-linux-android\release\build\serde-e78a1ca1ac42dcda\out/private.rs:
+
+# env-dep:OUT_DIR=E:\\TurnbasedCC\\app-core\\target\\aarch64-linux-android\\release\\build\\serde-e78a1ca1ac42dcda\\out

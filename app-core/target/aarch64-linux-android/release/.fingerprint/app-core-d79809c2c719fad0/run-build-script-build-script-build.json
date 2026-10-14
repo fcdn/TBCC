@@ -1,0 +1,1 @@
+{"rustc":6728126329342245928,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[7447197249406922065,"build_script_build",false,10358040689110482508]],"local":[{"Precalculated":"13436388753.243439400s (src\\lib.rs)"}],"rustflags":["-C","link-arg=-Wl,-z,max-page-size=16384"],"config":0,"compile_kind":0}
